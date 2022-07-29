@@ -13,7 +13,7 @@ An additional data set shows reproductive health and rights under attack by the 
 
 Full credit for the data presented here belongs to the following entities:
 
-[Centers for Disease Control and Prevention-Abortion Surveillance](https://search.cdc.gov/search/?query=kentucky%27s%20abortion%20clinics&dpage=1#results-web)    
+[Centers for Disease Control and Prevention-Abortion Surveillance](https://search.cdc.gov/search/?query=kentucky%27s%20abortion%20clinics&dpage=1#results-web)   
 
 Kortsmit K, Mandel MG, Reeves JA, et al. Abortion Surveillance — United States, 2019. MMWR Surveill Summ 2021;70(No. SS-9):1–29. DOI: http://dx.doi.org/10.15585/mmwr.ss7009a1   
 Including:   
